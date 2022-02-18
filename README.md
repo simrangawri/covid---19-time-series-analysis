@@ -1,2 +1,2 @@
-# covid---19-time-series-analysis
+# time-series-analysis
 It presents the visualization of the corona virus status in particular duration of time by summing up the vast data of different states in India and also comparing the situaion with other countries by graphically analysing different aspects like the number of deaths, recovery rate etc. This analysis is done using python libraries like pandas , numpy , matplotlib and many more. 
